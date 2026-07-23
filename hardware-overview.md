@@ -11,6 +11,9 @@ nav_order: 2
 Let's take a look at an overview of the hardware and parts required for setup.
 {: .fs-6 .fw-300 }
 
+{: .important }
+If you have the fully assembled Everything Presence Lite with the injection moulded case, you can skip ahead to the [connecting to WiFi section](./updating.html)
+
 There are several components that make up the Everything Presence Lite. You may have received some or all of these components depending which version you purchased - if you purchased the board only then you will need to provide your own compatible mmWave Sensor.
 
 Each component is listed below - please familiarise yourself with each component for this guide.
@@ -40,7 +43,7 @@ Each of the main components is labelled directly on the board itself to help wit
 
 ![Everything Presence Lite Official Case](images/hardware-overview-official-case.jpg)
 
-The case for the EPL is currently shipped in the box. If you prefer to print your own, in a different colour the STL is located on Printables (link pending!)
+The case for the EPL is currently shipped in the box. If you prefer to print your own, in a different colour the STL is [located on Printables](https://www.printables.com/model/624830-everything-presence-lite-official-case).
 
 The case has 5 components - Front, Back, Stand, Ball Joint and Locking Ring.
 
